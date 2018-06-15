@@ -1,0 +1,439 @@
+# CharacterMakingExtender face data
+# character race: Imperial
+# version: 2.0
+
+# 'uniqueID, value' pair
+1, 1.000000
+2, 0.000000
+901, 0.000000
+910, 0.000000
+3, 3.000000
+4, 1.000000
+902, 0.000000
+903, 0.000000
+908, 0.000000
+2200, 0.000000
+2201, 0.000000
+2202, 0.000000
+2203, 0.000000
+2204, 0.000000
+2205, 0.000000
+2206, 0.000000
+2207, 0.000000
+2208, 0.000000
+2209, 0.000000
+2210, 0.000000
+2211, 0.000000
+2212, 0.000000
+2213, 0.000000
+904, 0.000000
+914, -0.026667
+911, 0.060000
+2220, 0.000000
+2221, 0.000000
+2222, 0.000000
+2223, 0.000000
+912, 0.060000
+2224, 0.000000
+2225, 0.000000
+2004, 0.000000
+2005, 0.000000
+2006, 0.000000
+2007, 0.000000
+2008, 0.000000
+2009, 0.000000
+2010, 0.000000
+2011, 0.000000
+2012, 0.000000
+2013, 0.000000
+2014, 0.000000
+2120, 0.000000
+2121, 0.000000
+2122, 0.000000
+2123, 0.000000
+2124, 0.000000
+2125, 0.000000
+2126, 0.000000
+2020, 0.000000
+2038, 0.000000
+2039, 0.000000
+2021, 0.000000
+2040, 0.000000
+2041, 0.000000
+2042, 0.000000
+2022, 0.000000
+2044, 0.000000
+2045, 0.000000
+2046, 0.000000
+2023, 0.000000
+2050, 0.000000
+2051, 0.000000
+2052, 0.000000
+2024, 0.000000
+2054, 0.000000
+2055, 0.000000
+2056, 0.000000
+2025, 0.000000
+2060, 0.000000
+2061, 0.000000
+2062, 0.000000
+2026, 0.000000
+2064, 0.000000
+2065, 0.000000
+2066, 0.000000
+2027, 0.000000
+2070, 0.000000
+2071, 0.000000
+2072, 0.000000
+2028, 0.000000
+2074, 0.000000
+2075, 0.000000
+2076, 0.000000
+2029, 0.000000
+2080, 0.000000
+2081, 0.000000
+2082, 0.000000
+2116, 0.000000
+2117, 0.000000
+2118, 0.000000
+2030, 0.000000
+2084, 0.000000
+2085, 0.000000
+2086, 0.000000
+2031, 0.000000
+2090, 0.000000
+2091, 0.000000
+2092, 0.000000
+2032, 0.000000
+2094, 0.000000
+2095, 0.000000
+2096, 0.000000
+2033, 0.000000
+2100, 0.000000
+2101, 0.000000
+2102, 0.000000
+2113, 0.000000
+2114, 0.000000
+2115, 0.000000
+2034, 0.000000
+2104, 0.000000
+2105, 0.000000
+2106, 0.000000
+2110, 0.000000
+2111, 0.000000
+2112, 0.000000
+906, 0.000000
+4604, 0.133333
+4603, 0.000000
+5, 0.000000
+6, -1.000000
+7, 1.000000
+8, 0.000000
+9, -1.000000
+10, 1.000000
+907, 0.000000
+4605, 0.000000
+4606, 0.000000
+4607, 0.000000
+4608, 0.000000
+913, 0.000000
+50, 0.000000
+17, 0.000000
+18, -0.400000
+53, 0.000000
+54, 0.000000
+14, -0.100000
+15, -0.400000
+16, 0.000000
+41, -0.200000
+42, -0.400000
+43, 0.000000
+104, -0.400000
+87, 0.066667
+26, 22.000000
+27, 113.000000
+60, 0.400000
+61, 0.000000
+62, 0.266667
+4609, 0.000000
+63, 0.133333
+4610, 0.000000
+4611, 0.000000
+64, -0.133333
+65, -0.400000
+67, 0.000000
+68, 0.000000
+66, 1.000000
+28, -0.250000
+105, 0.000000
+29, -0.400000
+30, 0.100000
+34, 88.000000
+4612, 0.000000
+70, 0.066667
+71, 0.200000
+35, -0.200000
+36, -0.200000
+37, -0.400000
+4601, 0.000000
+38, 26.000000
+4600, 0.200000
+80, 0.000000
+81, 0.133333
+82, 0.000000
+83, 0.000000
+84, -0.133333
+85, 0.000000
+39, 0.000000
+40, -0.300000
+45, 729.000000
+46, 11.000000
+11, 22.000000
+12, 0.200000
+13, -0.200000
+97, 0.000000
+100, -0.200000
+101, 0.066667
+92, 0.133333
+93, -0.200000
+94, 0.200000
+95, 0.000000
+4602, 0.000000
+96, 0.000000
+102, 0.000000
+103, 0.000000
+52, 0.000000
+51, 0.000000
+19, 2.000000
+20, 1.000000
+21, 2.000000
+22, 1.000000
+23, 1.000000
+24, 0.000000
+25, 1.000000
+31, 8.000000
+32, 9.000000
+33, 9.000000
+44, 2.000000
+-44, 4282123776.000000
+73, 0.000000
+74, 0.000000
+75, 0.000000
+76, 0.000000
+77, 0.000000
+78, 0.000000
+79, 0.000000
+927, 0.000000
+928, 0.000000
+929, 0.000000
+930, 0.000000
+931, 0.000000
+932, 0.000000
+933, 0.000000
+934, 0.000000
+935, 0.000000
+936, 0.000000
+937, 0.000000
+938, 0.000000
+939, 0.000000
+940, 0.000000
+941, 0.000000
+942, 0.000000
+943, 0.000000
+944, 0.000000
+945, 0.000000
+946, 0.000000
+947, 0.000000
+948, 0.000000
+949, 0.000000
+950, 0.000000
+951, 0.000000
+952, 0.000000
+953, 0.000000
+954, 0.000000
+955, 0.000000
+956, 0.000000
+957, 0.000000
+958, 0.000000
+959, 0.000000
+960, 0.000000
+961, 0.000000
+962, 0.000000
+965, 0.000000
+966, 0.000000
+800, 0.000000
+-800, 996.000000
+980, 6.000000
+981, 97.000000
+982, 12.000000
+983, 100.000000
+
+
+# --- skeleton data ---
+# "NPC Head [Head]" scale:1
+# "NPC Spine2 [Spn2]" scale:1
+# "WeaponBack" scale:1
+# "WeaponBow" scale:1
+# "QUIVER" scale:1
+# "NPC Root [Root]" scale:1
+# "NPC L Hand [LHnd]" scale:0.725393
+# "NPC R Hand [RHnd]" scale:0.725393
+# "CME L Hand [LHnd]" scale:1
+# "CME R Hand [RHnd]" scale:1
+# "NPC L Finger00 [LF00]" scale:1
+# "CME L Finger00 [LF00]" scale:1
+# "NPC L Finger01 [LF01]" scale:1
+# "CME L Finger01 [LF01]" scale:1
+# "NPC L Finger02 [LF02]" scale:1
+# "NPC R Finger00 [RF00]" scale:1
+# "CME R Finger00 [RF00]" scale:1
+# "NPC R Finger01 [RF01]" scale:1
+# "CME R Finger01 [RF01]" scale:1
+# "NPC R Finger02 [RF02]" scale:1
+# "NPC L Finger10 [LF10]" scale:1
+# "CME L Finger10 [LF10]" scale:1
+# "NPC L Finger11 [LF11]" scale:1
+# "CME L Finger11 [LF11]" scale:1
+# "NPC L Finger02 [LF12]" scale:1
+# "NPC R Finger10 [RF10]" scale:1
+# "CME R Finger10 [RF10]" scale:1
+# "NPC R Finger11 [RF11]" scale:1
+# "CME R Finger11 [RF11]" scale:1
+# "NPC R Finger12 [RF12]" scale:1
+# "NPC L Finger20 [LF20]" scale:1
+# "CME L Finger20 [RF20]" scale:1
+# "NPC L Finger21 [LF21]" scale:1
+# "CME L Finger21 [RF21]" scale:1
+# "NPC L Finger22 [LF22]" scale:1
+# "NPC R Finger20 [RF20]" scale:1
+# "CME R Finger20 [RF20]" scale:1
+# "NPC R Finger21 [RF21]" scale:1
+# "CME R Finger21 [RF21]" scale:1
+# "NPC R Finger22 [RF22]" scale:1
+# "NPC L Finger30 [LF30]" scale:1
+# "CME L Finger30 [RF30]" scale:1
+# "NPC L Finger31 [LF31]" scale:1
+# "CME L Finger31 [RF31]" scale:1
+# "NPC L Finger32 [LF32]" scale:1
+# "NPC R Finger30 [RF30]" scale:1
+# "CME R Finger30 [RF30]" scale:1
+# "NPC R Finger31 [RF31]" scale:1
+# "CME R Finger31 [RF31]" scale:1
+# "NPC R Finger32 [RF32]" scale:1
+# "NPC L Finger40 [LF40]" scale:1
+# "CME L Finger40 [RF40]" scale:1
+# "NPC L Finger41 [LF41]" scale:1
+# "CME L Finger41 [RF41]" scale:1
+# "NPC L Finger42 [LF42]" scale:1
+# "NPC R Finger40 [RF40]" scale:1
+# "CME R Finger40 [RF40]" scale:1
+# "NPC R Finger41 [RF41]" scale:1
+# "CME R Finger41 [RF41]" scale:1
+# "NPC R Finger42 [RF42]" scale:1
+# "NPC L Thigh [LThg]" scale:1
+# "NPC R Thigh [RThg]" scale:1
+# "NPC L Calf [LClf]" scale:1
+# "NPC R Calf [RClf]" scale:1
+# "NPC Pelvis [Pelv]" scale:1
+# "NPC COM [COM ]" scale:1
+# "WeaponAxe" scale:1
+# "WeaponMace" scale:1
+# "WeaponSword" scale:1
+# "WeaponDagger" scale:1
+# "WeaponAxeLeft" scale:1
+# "WeaponMaceLeft" scale:1
+# "WeaponSwordLeft" scale:1
+# "WeaponDaggerLeft" scale:1
+# "CME Spine [Spn0]" scale:0.973333
+# "CME Spine1 [Spn1]" scale:1.0274
+# "NPC L Breast" scale:1.06
+# "NPC R Breast" scale:1.06
+# "NPC L Breast01" scale:0.943396
+# "NPC R Breast01" scale:0.943396
+# "NPC L Butt" scale:1.06
+# "NPC R Butt" scale:1.06
+# "TailBone01" scale:1
+# "HDT TailBone01" scale:1
+# "NPC TailBone01" scale:1
+# "TailBone02" scale:1
+# "HDT TailBone02" scale:1
+# "NPC TailBone02" scale:1
+# "TailBone03" scale:1
+# "HDT TailBone03" scale:1
+# "NPC TailBone03" scale:1
+# "TailBone04" scale:1
+# "HDT TailBone04" scale:1
+# "NPC TailBone04" scale:1
+# "TailBone05" scale:1
+# "HDT TailBone05" scale:1
+# "NPC TailBone05" scale:1
+# "HDT TailBone06" scale:1
+# "NPC TailBone06" scale:1
+# "NPC TailBone07" scale:1
+# "NPC TailBone08" scale:1
+# "CME TailBone01" scale:1
+# "CME TailBone02" scale:1
+# "CME TailBone03" scale:1
+# "CME TailBone04" scale:1
+# "ShieldBack" scale:1
+# "WeaponStaff" scale:1
+# "WeaponStaffLeft" scale:1
+# "WEAPON" scale:1
+# "SHIELD" scale:1
+# "NPC" scale:1
+#
+# "CME Neck [Neck]" (x,y,z):0,0,0
+# "CME Tail Pelvis [Pelv]" (x,y,z):0,0,0
+# "CME Tail Spine [Spn0]" (x,y,z):0,0,0
+# "CME Tail Spine1 [Spn1]" (x,y,z):0,0,0
+# "CME Tail L Thigh [LThg]" (x,y,z):0,0,0
+# "CME Tail R Thigh [RThg]" (x,y,z):0,0,0
+# "CME WeaponAxeDefault" (x,y,z):0,0,0
+# "CME WeaponAxeReverse" (x,y,z):0,0,0
+# "CME WeaponAxeOnBack" (x,y,z):0,0,0
+# "CME WeaponAxeLeftDefault" (x,y,z):0,0,0
+# "CME WeaponAxeLeftReverse" (x,y,z):0,0,0
+# "CME WeaponAxeLeftOnBack" (x,y,z):0,0,0
+# "CME WeaponMaceDefault" (x,y,z):0,0,0
+# "CME WeaponMaceLeftDefault" (x,y,z):0,0,0
+# "CME WeaponSwordDefault" (x,y,z):0,0,0
+# "CME WeaponSwordOnBack" (x,y,z):0,0,0
+# "CME WeaponSwordSWP" (x,y,z):0,0,0
+# "CME WeaponSwordFSM" (x,y,z):0,0,0
+# "CME WeaponSwordLeftHip" (x,y,z):0,0,0
+# "CME WeaponSwordNMD" (x,y,z):0,0,0
+# "CME WeaponSwordLeftDefault" (x,y,z):0,0,0
+# "CME WeaponSwordLeftOnBack" (x,y,z):3,3,3
+# "CME WeaponSwordLeftSWP" (x,y,z):0,0,0
+# "CME WeaponSwordLeftFSM" (x,y,z):0,0,0
+# "CME WeaponSwordLeftLeftHip" (x,y,z):0,0,0
+# "CME WeaponSwordLeftNMD" (x,y,z):0,0,0
+# "CME WeaponDaggerDefault" (x,y,z):0,0,0
+# "CME WeaponDaggerBackHip" (x,y,z):0,0,0
+# "CME WeaponDaggerAnkle" (x,y,z):0,0,0
+# "CME WeaponDaggerLeftDefault" (x,y,z):0,0,0
+# "CME WeaponDaggerLeftBackHip" (x,y,z):0,0,0
+# "CME WeaponDaggerLeftAnkle" (x,y,z):0,0,0
+# "CME WeaponBackDefault" (x,y,z):0,0,0
+# "CME WeaponBackSWP" (x,y,z):0,0,0
+# "CME WeaponBackFSM" (x,y,z):0,0,0
+# "CME WeaponBackAxeMaceDefault" (x,y,z):0,0,0
+# "CME WeaponBackAxeMaceSWP" (x,y,z):0,0,0
+# "CME WeaponBackAxeMaceFSM" (x,y,z):0,0,0
+# "CME ShieldBackDefault" (x,y,z):0,0,0
+# "CME WeaponStaffDefault" (x,y,z):0,0,0
+# "CME WeaponStaffLeftDefault" (x,y,z):0,0,0
+# "CME WeaponBowDefault" (x,y,z):0,0,0
+# "CME WeaponBowChesko" (x,y,z):0,0,0
+# "CME WeaponBowBetter" (x,y,z):0,0,0
+# "CME WeaponBowFSM" (x,y,z):0,0,0
+# "CME WeaponCrossbowDefault" (x,y,z):0,0,0
+# "CME WeaponCrossbowChesko" (x,y,z):0,0,0
+# "CME QUIVERDefault" (x,y,z):0,0,0
+# "CME QUIVERChesko" (x,y,z):0,0,0
+# "CME QUIVERLeftHipBolt" (x,y,z):0,0,0
+# "CME BOLTDefault" (x,y,z):0,0,0
+# "CME BOLTChesko" (x,y,z):0,0,0
+# "CME BOLTLeftHipBolt" (x,y,z):0,0,0
+# "CME BOLTXP32" (x,y,z):0,0,0
+# "CME BOLTABQ" (x,y,z):0,0,0
